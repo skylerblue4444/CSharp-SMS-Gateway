@@ -1,0 +1,1 @@
+using System;\n\nclass Program {\n    static void Main() {\n        Console.WriteLine("Starting CSharp-SMS-Gateway service...");\n    }\n}\n
